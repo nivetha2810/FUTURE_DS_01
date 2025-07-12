@@ -1,28 +1,30 @@
 # FUTURE_DS_01
-Task 1 – Sales Dashboard using Power BI (Future Interns Data Science Internship)
+# Task 1 – Business Sales Dashboard
 
 ## 📊 Project Overview:
 This is my Task 1 submission for the Data Science & Analytics Internship at Future Interns.  
-I built an interactive dashboard using Power BI to analyze business sales data.
+I created an interactive dashboard using Power BI to gain insights from e-commerce sales data.
 
 ## ✨ Key Insights:
-- Technology is the top-performing category in sales
-- Sales peaked in 2014
-- West and East regions generated the highest revenue
+- Top-selling product categories
+- Monthly sales trends
+- Region-wise sales performance
+
+## 📁 Deliverables:
+- Power BI dashboard (PBIX)
+- Sales insights screenshots
 
 ## 🔧 Tools Used:
 - Power BI Desktop
-- Excel for initial exploration
+- Microsoft Excel
 
-## 📈 Visuals Included:
-- Sales by Category
-- Sales Trend by Year
-- Sales by Region
-- Sales Summary Table (Orders, Profit, Sales)
-
-## 📥 Dataset:
-Superstore Sales Dataset (Public sample dataset)
+## 📈 Visuals Created:
+1. Sales by Category
+2. Monthly Sales Trend
+3. Sales by Region
+4. Sales Summary Table (Orders, Profit, Sales)
 
 ---
-🎯 Internship Track: Data Science  
+
+🎓 Internship Track: Data Science  
 🔗 #futureinterns
